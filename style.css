@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(67, 65, 65);
+}
+
+
+.active{
+    background-color: rgb(235, 113, 235);
+}
+
+
+.areaWidget{
+    background-color:lightskyblue;
+    padding-bottom:20px;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.navbar-brand{
+    opacity: 0.2;
+}
+
